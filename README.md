@@ -26,14 +26,23 @@ Run the app:
 
 Use a connected device or emulator.
 🛡️ Libraries and Tools Used
+
 Library/Tool	Purpose
+
 Kotlin	Programming language
+
 Retrofit	API calls and JSON parsing
+
 Coil	Image loading
+
 Navigation Components	Seamless navigation between screens
+
 Hilt	Dependency injection
+
 Material Design	UI/UX design principles
+
 📥 APK File
+
 [📥 Download APK](https://drive.google.com/file/d/1K8CwMU2zxJvEJTekbTj6MkeLW0p5TWnw/view?usp=sharing)
 
 
