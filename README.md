@@ -1,27 +1,36 @@
-BookFinder App
-This is an Android application that allows users to search and view details of books using the Google Books API. The app demonstrates the use of Navigation Components, Retrofit for API integration, and MVVM architecture with Hilt for dependency injection.
+📚 BookFinder App
+BookFinder is an Android application that allows users to search for books and view their details using the Google Books API. The app demonstrates modern Android development practices, including Navigation Components, Retrofit, and MVVM architecture with Hilt.
 
-Features
-Displays a list of books with title, author, and thumbnail.
-Search functionality to filter books by title or author.
-Detailed view of selected book with additional information.
-Material Design principles applied throughout the app.
+🚀 Features
+Book List: Displays a list of books with their title, author, and thumbnail.
+Search: Filter books by title or author.
+Book Details: View detailed information about a selected book, including its description and published date.
+Material Design: Follows Material Design principles for a polished and user-friendly UI.
+🛠️ Setup and Run Instructions
+Clone this repository:
 
-Setup and Run Instructions
-1.Clone this repository:
+bash
+Copy code
+git clone https://github.com/<your-username>/BookFinder.git
+cd BookFinder
+Open the project in Android Studio.
 
-2.Open the project in Android Studio.
+Sync Gradle and build the project.
 
-3.Sync Gradle and build the project.
 
-4.Run the app on a connected device or emulator.
+Run the app:
 
-Libraries and Tools Used
-Kotlin: Programming language.
-Retrofit: API calls and JSON parsing.
-Coil: Image loading library.
-Navigation Components: Seamless navigation between screens.
-Hilt: Dependency injection.
-Material Design: UI/UX design principles.
-APK File
-Download APK
+Use a connected device or emulator.
+🛡️ Libraries and Tools Used
+Library/Tool	Purpose
+Kotlin	Programming language
+Retrofit	API calls and JSON parsing
+Coil	Image loading
+Navigation Components	Seamless navigation between screens
+Hilt	Dependency injection
+Material Design	UI/UX design principles
+📥 APK File
+📥 Download APK
+
+
+
