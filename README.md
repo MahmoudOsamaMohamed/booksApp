@@ -25,21 +25,21 @@ BookFinder is an Android application that allows users to search for books and v
 Run the app:
 
 Use a connected device or emulator.
+
 🛡️ Libraries and Tools Used
 
-Library/Tool	Purpose
 
-Kotlin	Programming language
+- **kotlin**:	Programming language
 
-Retrofit	API calls and JSON parsing
+- **Retrofit**:	API calls and JSON parsing
 
-Coil	Image loading
+- **Coil**:	Image loading
 
-Navigation Components	Seamless navigation between screens
+- **Navigation Components**:	Seamless navigation between screens
 
-Hilt	Dependency injection
+- **Hilt**:	Dependency injection
 
-Material Design	UI/UX design principles
+- **Material Design**:	UI/UX design principles
 
 📥 APK File
 
